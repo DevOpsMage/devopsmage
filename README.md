@@ -4,7 +4,7 @@
 
 ## 🔭 The Journey So Far
 
-My path in the IT world has been anything but ordinary.  I've navigated a diverse array of roles, from honing my troubleshooting skills as a **Computer Repair Specialist** to orchestrating complex ERP implementations as an **ERP Supervisor** at MAI Companies. Throughout this journey, I've cultivated a thirst for knowledge, a talent for adapting to change, and an unwavering focus on delivering tangible value through technology-driven initiatives.
+My path in the IT world has been anything but ordinary.  I've navigated a diverse array of roles, from honing my troubleshooting skills as a **Computer Repair Specialist** to orchestrating complex ERP implementations. Throughout this journey, I've cultivated a thirst for knowledge, a talent for adapting to change, and an unwavering focus on delivering tangible value through technology-driven initiatives.
 
 
 
@@ -14,7 +14,7 @@ My path in the IT world has been anything but ordinary.  I've navigated a divers
 
 # 🏆 Achievements
 
-* **ERP Maestro:** Successfully spearheaded the implementation of an ERP system at MAI Companies, optimizing business operations and unlocking new levels of efficiency.
+* **ERP Maestro:** Successfully spearheaded the implementation of an ERP system, optimizing business operations and unlocking new levels of efficiency.
 * **Data-Driven Dynamo:** Developed actionable insights from data analysis, resulting in significant revenue growth and cost savings for several companies.
 * **Project Management Whiz:** Coordinated cross-functional teams to deliver projects on time and within budget constraints.
 * **Systems Guardian:** Maintained and fine-tuned IT infrastructure to ensure seamless availability and peak performance.
