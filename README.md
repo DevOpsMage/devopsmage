@@ -10,7 +10,7 @@ My path in the IT world has been diverse and exciting. I've navigated a variety 
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devopsmage&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=devopsmage&show_icons=true&theme=radical)
 
 <picture>
   <source
