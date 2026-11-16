@@ -12,6 +12,21 @@ My path in the IT world has been diverse and exciting. I've navigated a variety 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devopsmage&show_icons=true&theme=radical)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DevOpsMage/devopsmage/snake/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DevOpsMage/devopsmage/snake/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/DevOpsMage/devopsmage/snake/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ## 🏆 Achievements
 
 * **ERP Implementation:** Successfully spearheaded the implementation of an ERP system, optimizing business operations and unlocking new levels of efficiency.
